@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "App\App.csproj", "{2DC76A3C-5818-4383-9D1A-7696ECD6E61C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{692DBA4E-87F1-4741-B853-439323D2D40C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{C3493C2E-B637-4EEF-B958-773F07FF5D3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{97188303-DEDB-4971-8C5C-37EA662D8DDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DC76A3C-5818-4383-9D1A-7696ECD6E61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC76A3C-5818-4383-9D1A-7696ECD6E61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC76A3C-5818-4383-9D1A-7696ECD6E61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC76A3C-5818-4383-9D1A-7696ECD6E61C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{692DBA4E-87F1-4741-B853-439323D2D40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692DBA4E-87F1-4741-B853-439323D2D40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692DBA4E-87F1-4741-B853-439323D2D40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692DBA4E-87F1-4741-B853-439323D2D40C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3493C2E-B637-4EEF-B958-773F07FF5D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3493C2E-B637-4EEF-B958-773F07FF5D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3493C2E-B637-4EEF-B958-773F07FF5D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3493C2E-B637-4EEF-B958-773F07FF5D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97188303-DEDB-4971-8C5C-37EA662D8DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97188303-DEDB-4971-8C5C-37EA662D8DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97188303-DEDB-4971-8C5C-37EA662D8DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97188303-DEDB-4971-8C5C-37EA662D8DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
